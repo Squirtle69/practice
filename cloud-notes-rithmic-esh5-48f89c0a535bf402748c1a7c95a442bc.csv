@@ -1,0 +1,5 @@
+#automap RITHMIC,,,,,,,
+Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,DIAMETER, DRAW_NOTE_PRICE_HORIZONTAL_LINE
+ESH5,911,SELL,#ffffff,#FF0000,left,2,TRUE
+ESH5,69,hold,#ffffff,#FF0000,center,1,TRUE
+ESH5,60,BUY,#ffffff,#FF0000,right,3,TRUE
